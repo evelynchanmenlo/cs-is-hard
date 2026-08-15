@@ -1,4 +1,4 @@
-# Simulate a sports tournament
+# Simulate a sports tournament by Evelyn Chan
 
 import csv
 import sys
