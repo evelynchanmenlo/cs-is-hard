@@ -1,0 +1,19 @@
+Question 1 - When strcmp returns 0, that means that the two strings are identical
+Question 2 -
+int max;
+if (strcmp(g.level, "debug") == 0)
+{
+    max = 9;
+}
+else
+{
+    max = 1024;
+}
+Question 3 - In g, int y and x represents the corrdinates at which the user's cursor belongs
+Question 4 - show_cursor
+Question 5 - line 177-255
+Question 6 -
+Debug #1: 1 blank
+Debug #2: 2 blanks
+Debug #9: 9 blanks
+
